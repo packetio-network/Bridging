@@ -1,4 +1,4 @@
-# Why should a customer choose Linux Bridging based solution ?
+# Why should a customer choose Linux Bridge based solution ?
 Choosing between Linux kernel bridging and other technologies like FD.io VPP (Vector Packet Processing) or OVS-DPDK (Open vSwitch with Data Plane Development Kit) depends on several factors, including the specific requirements of the network, the complexity of the workloads, the need for performance, and the resources available for managing and operating the network. Here are a few considerations:
 
 ### Simplicity and Compatibility: 
